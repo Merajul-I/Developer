@@ -91,7 +91,7 @@ body{
 /* site-main */
 
 .site-banner .banner-area{
-    background: url(./assets/Banner_image.jpg) no-repeat;
+    background: url(./Banner_image.jpg) no-repeat;
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -111,8 +111,8 @@ body{
     height: 200px;
     border-radius: 50%;
     margin: auto;
-    background: url(./assets/about.jpg) no-repeat;
-    background-size: 200%;
+    background: url(./pro1.jpg) no-repeat;
+    background-size: 100%;
     background-position: 40% 0;
 }
 
