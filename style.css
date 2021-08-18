@@ -91,7 +91,7 @@ body{
 /* site-main */
 
 .site-banner .banner-area{
-    background: url(./Banner_image.jpg) no-repeat;
+    background: url(./banner.jpg) no-repeat;
     background-size: cover;
     width: 100%;
     height: 100vh;
