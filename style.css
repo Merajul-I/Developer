@@ -116,6 +116,11 @@ body{
     background-position: 40% 0;
 }
 
+
+h1, .author text-center {
+
+color: blue;
+}
 .skill .bars p, .site-content .skill .bars span{
     line-height: 10px;
 }
